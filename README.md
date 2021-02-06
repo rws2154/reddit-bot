@@ -2,10 +2,10 @@
 
 This is a simple bot that just watches for some keywords in submissions, or mentions, and replies.
 
-* CLIENT_ID="<client id value>"  
-* CLIENT_SECRET="<client secret value>"
+* CLIENT_ID="<client_id>"  
+* CLIENT_SECRET="<client_secret>"
 * PASSWORD="<reddit_password>"
-* USER_AGENT="<user agent>"  
+* USER_AGENT="<user_agent>"  
 * USERNAME="<reddit_username>"
 
 are all needed as environment variables to have this function correctly.  
